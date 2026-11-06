@@ -4,6 +4,10 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
+**Live:** [couple-hugs-api.vercel.app](https://couple-hugs-api.vercel.app)
+
+REST API (no web UI). Health check and route list: [`/api/health`](https://couple-hugs-api.vercel.app/api/health). Send the login token as `Authorization: Bearer <token>`.
+
 ## Features
 
 - Register / login with bcrypt-hashed passwords
